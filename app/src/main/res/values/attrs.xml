@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomWatchView">
+        <attr name="hasNumbers" format="boolean" />
+        <attr name="hasSeconds" format="boolean" />
+        <attr name="hasDivisions" format="boolean" />
+        <attr name="isSquare" format="boolean" />
+        <attr name="backgroundColor" format="color" />
+        <attr name="mainColor" format="color" />
+    </declare-styleable>
+</resources>
